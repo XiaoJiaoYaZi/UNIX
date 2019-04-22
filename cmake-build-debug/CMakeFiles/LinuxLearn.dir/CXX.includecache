@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lqd/CLionProjects/LinuxLearn/charpter5.h
+stdio.h
+-
+wchar.h
+-
+stdlib.h
+-
+fcntl.h
+-
+iostream
+-
+errno.h
+-
+err.h
+-
+unistd.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+cstring
+-
+
+/home/lqd/CLionProjects/LinuxLearn/main.cpp
+iostream
+-
+charpter5.h
+/home/lqd/CLionProjects/LinuxLearn/charpter5.h
+
