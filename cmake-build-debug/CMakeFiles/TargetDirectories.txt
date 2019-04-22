@@ -1,3 +1,0 @@
-/home/lqd/CLionProjects/LinuxLearn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/lqd/CLionProjects/LinuxLearn/cmake-build-debug/CMakeFiles/LinuxLearn.dir
-/home/lqd/CLionProjects/LinuxLearn/cmake-build-debug/CMakeFiles/edit_cache.dir
